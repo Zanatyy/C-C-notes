@@ -11,9 +11,7 @@ Vector Constructor will take the size of the array as an input.
 
 ## Functions:
 - void set(int p,int x)
-
 -int get(int p)
-
 -void expand_capacity()
 
 -void push_back(int x)
