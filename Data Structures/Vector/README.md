@@ -10,15 +10,11 @@ Simply, Arrays has a static size. In older versions you can't change the size of
 Vector Constructor will take the size of the array as an input.
 
 ## Functions:
-- void set(int p,int x).
--int get(int p).
--void expand_capacity().
-
--void push_back(int x)
-
--int get_size()
-
--void printv()
-
--void insertion(int x,int p)
+- void set(int p,int x)
+- int get(int p)
+- void expand_capacity()
+- void push_back(int x)
+- int get_size()
+- void printv()
+- void insertion(int x,int p)
 
